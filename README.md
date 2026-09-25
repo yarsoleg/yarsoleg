@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://t.me/yarsoleg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://vk.ru/yars.oleg"><img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=vk&logoColor=white" /></a>
-  <a href="mailto:yars.oleg@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFB300?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:yars.oleg@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFA000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -16,6 +16,8 @@
 Программирую на **Java**, **Python** и **C++**, побывал на конференциях **SberCommunityDay** и **Стачка-2025**, вёл проект по криптографии.
 
 Постоянно открываюсь чему-то новому и интересному! Увлекаюсь компьютерными и настольными играми, люблю слушать музыку. Нравится путешествовать и ходить в походы — они дарят впечатления, заряжают энергией и вдохновляют на новые свершения. Смотрю в будущее с оптимизмом, верю в судьбу, но полагаюсь на себя…
+
+---
 
 ### 🛠️ Стек и навыки
 
@@ -49,10 +51,10 @@
 ### 🏆 Достижения
 
 - 🥇 Победитель математического фестиваля «Точка опоры»
-- 👑 **Clash Royale** — 5-кратный абсолютный чемпион, 14 000 трофеев
-- 🟡 **Brawl Stars** — Мастер #1275 Ru, Primes: 117, 120 000 трофеев
-- 🦋 **Hollow Knight** — 5-ый Пантеон, Светозарный чертог богов
-- ⚔️ **Dead Cells** — пройдена 5-ая клетка
+- 👑 **Clash Royale** - 5-кратный абсолютный чемпион, 14 000 трофеев
+- 🟡 **Brawl Stars** - Мастер #1275 Ru, Primes: 117, 120 000 трофеев
+- 🦋 **Hollow Knight** - 5-ый Пантеон, Светозарный чертог богов
+- ⚔️ **Dead Cells** - Пройдена 5-ая клетка и золотая статуя боссов
 
 ---
 
