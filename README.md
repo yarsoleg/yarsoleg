@@ -30,9 +30,9 @@
 </p>
 
 - **Создание сайта:** [retrowave.ucoz.org](https://retrowave.ucoz.org/)
-- **Шифровальщик:** [Encryptor-Tkinter](https://github.com/yarsoleg/encryptor-tkinter)
-- **Языки:** Java, Python, C++, Bash
-- **Инструменты:** Git, MS Excel, MS Word
+- **Шифровальщик:** [encryptor-tkinter](https://github.com/yarsoleg/encryptor-tkinter)
+- **Языки:** Java, Python, C++
+- **Инструменты:** Git, IntelliJ IDEA, VS Code,  GitHub, MS Word, MS Excel
 - **Области:** AI-prompting, Алгоритмы и структуры данных, криптография
 
 ---
@@ -44,7 +44,7 @@
 Программная инженерия / Software Engineer
 
 **2014 – 2025**<br>
-Гимназия № 261<br>
+Гимназия № 261, Санкт-Петербург<br>
 Математико-информационный профиль
 
 ---
@@ -52,10 +52,20 @@
 ### 🏆 Достижения
 
 - 🥇 Победитель математического фестиваля «Точка опоры»
+- 🌟 Призер конкурса компьютерных работ (2023)
+- 📜 Похвальный лист за отличные успехи в учёбе
+
+<details>
+<summary>🎮 <b>Игровые достижения</b> (нажми, чтобы раскрыть)</summary>
+<br>
+  
 - 👑 **Clash Royale** - 5-кратный абсолютный чемпион, 14 000 трофеев
-- 🟡 **Brawl Stars** - Мастер #1275 Ru, Primes: 117, 120 000 трофеев
-- 🦋 **Hollow Knight** - 5-ый Пантеон, Светозарный чертог богов
-- ⚔️ **Dead Cells** - Пройдена 5-ая клетка и золотая статуя боссов
+- 🏆 **Brawl Stars** - Мастер #1275 RU, Primes: 117, 120 000 трофеев
+- 🦋 **Hollow Knight** - 5-й Пантеон, Светозарный чертог богов
+- ⚔️ **Dead Cells** - Пройдена 5-я клетка и золотая статуя боссов
+- 👟 **Mirrors Edge** - Платина, Ранг I
+
+</details>
 
 ---
 
